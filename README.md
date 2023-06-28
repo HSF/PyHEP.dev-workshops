@@ -50,6 +50,7 @@ Correct or add to this list with a [pull request](https://github.com/jpivarski/P
 - [Work Queue](https://github.com/cooperative-computing-lab/cctools/tree/master/work_queue) ([website](http://ccl.cse.nd.edu/software/workqueue/)), a framework for building large distributed applications that span thousands of machines drawn from clusters, clouds, and grids: [@btovar](https://github.com/btovar)
 - [dask-awkward](https://github.com/dask-contrib/dask-awkward), native Dask collection for Awkward Arrays: [@agoose77](https://github.com/agoose77), [@lgray](https://github.com/lgray)
 - [hepdata_lib](https://github.com/HEPData/hepdata_lib), a library for getting your data into HEPData: [@clelange](https://github.com/clelange)
+- [Analysis Grand Challenge](https://github.com/iris-hep/analysis-grand-challenge), a project performing performing large scale end-to-end data analysis for HEP use cases: [@oshadura](https://github.com/oshadura), [@alexander-held](https://github.com/alexander-held)
 
 -----------------
 
