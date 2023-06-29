@@ -39,7 +39,7 @@ Correct or add to this list with a [pull request](https://github.com/jpivarski/P
 - [FCCAnalyses](https://github.com/HEP-FCC/FCCAnalyses), common analysis framework for the Future Circular Collider (FCC): [@kjvbrt](https://github.com/kjvbrt)
 - [func_adl](https://github.com/iris-hep/func_adl), constructs hierarchical data queries using SQL-like concepts in Python: [@masonproffitt](https://github.com/masonproffitt), [@gordonwatts](https://github.com/gordonwatts)
 - [Common Partial Wave Analysis](https://github.com/ComPWA), makes amplitude analysis accessible through transparent and interactive documentation, modern software development tools, and collaboration-independent frameworks: [@redeboer](https://github.com/redeboer)
-- Rio+, a C++ package for amplitude analysis: Molina
+- [Rio+](https://www.dropbox.com/sh/ydpg4xj4n817ppk/AACLohbJW2JDkFwlfiF2MlBva?dl=0), a C++ package for amplitude analysis: [@JMolinaHN](https://github.com/JMolinaHN)
 - [GooFit](https://github.com/goofit/goofit), a massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP: [@mdsokoloff](https://github.com/mdsokoloff)
 - [zfit](https://github.com/zfit/zfit), model manipulation and fitting library based on TensorFlow and optimised for simple and direct manipulation of probability density functions, with a focus on scalability, parallelisation and user friendly experience: [@jonas-eschle](https://github.com/jonas-eschle)
 - [pyhf](https://github.com/scikit-hep/pyhf), pure-Python HistFactory implementation with tensors and autodiff: [@matthewfeickert](https://github.com/matthewfeickert), [@lukasheinrich](https://github.com/lukasheinrich)
