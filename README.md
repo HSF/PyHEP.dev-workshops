@@ -1,6 +1,6 @@
 # PyHEP.dev 2023 preparation
 
-Now that there's less than a month before the [PyHEP.dev](https://indico.cern.ch/e/PyHEP2023.dev) workshop, let's organize ourselves into groups to determine who we're going to get in touch with and what we're going to work on.
+In preparation for the [PyHEP.dev](https://indico.cern.ch/e/PyHEP2023.dev) workshop, let's organize ourselves into groups to determine who we're going to get in touch with and what we're going to work on.
 
 ## Instructions
 
@@ -13,6 +13,8 @@ Now that there's less than a month before the [PyHEP.dev](https://indico.cern.ch
 **Step 4:** At the workshop, mornings are dedicated to kick-off talks and the afternoonds are free-form. The best way to use this workshop is to gather with the people you interacted with in the topical groups and get something done, whether that's detailed roadmap planning, designing new interfaces between libraries, coding sprints, brainstorming new ideas, getting integrated into a project/onboarding new members, transitioning a project into a new phase based on others' experience, writing documentation or tutorials, etc.
 
 Remember, this is _your_ workshop, your chance to be in the same room with developers of many Python packages in HEP. It will be as useful as you make it!
+
+<br><br><br><br><br>
 
 ## Library maintainers who will be present
 
