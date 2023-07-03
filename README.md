@@ -4,7 +4,7 @@ Now that there's less than a month before the [PyHEP.dev](https://indico.cern.ch
 
 ## Instructions
 
-**Step 1:** Look at the [list of topical groups](https://github.com/jpivarski/PyHEP.dev/issues?q=is%3Aopen+is%3Aissue+label%3A2023+label%3Atopical-group) and pick the ones you're most interested in. Add a comment to introduce yourself, your background, what you work on, and what you hope to achieve at the workshop.
+**Step 1:** Look at the [list of topical groups](https://github.com/HSF/PyHEP.dev-workshops/issues?q=is%3Aopen+is%3Aissue+label%3A2023+label%3Atopical-group) and pick the ones you're most interested in. Add a comment to introduce yourself, your background, what you work on, and what you hope to achieve at the workshop.
 
 **Step 2:** As conversations develop, it may seem natural to split a group into more manageable topics or add a new topical group that we didn't think of. Feel free to do that.
 
@@ -14,9 +14,9 @@ Now that there's less than a month before the [PyHEP.dev](https://indico.cern.ch
 
 Remember, this is _your_ workshop, your chance to be in the same room with developers of many Python packages in HEP. It will be as useful as you make it!
 
-## Who will be there/representing which libraries
+## Library maintainers who will be present
 
-Correct or add to this list with a [pull request](https://github.com/jpivarski/PyHEP.dev/pulls) if it's wrong or incomplete. Thank you!
+Do you want to connect with the maintainers of a particular library, but don't know who they are? The following people and the packages they maintain are listed below. If the following is incorrect or incomplete, please help us fix it with a [pull request](https://github.com/HSF/PyHEP.dev-workshops/pulls). Thank you!
 
 - [scikit-build](https://github.com/scikit-build/scikit-build), improved build system generator for CPython C, C++, Cython and Fortran extensions: [@henryiii](https://github.com/henryiii)
 - [cookie](https://github.com/scientific-python/cookie), Scientific Python library development guide and cookie-cutter: [@henryiii](https://github.com/henryiii)
