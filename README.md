@@ -4,7 +4,7 @@ In preparation for the [PyHEP.dev](https://indico.cern.ch/e/PyHEP2023.dev) works
 
 ## Instructions
 
-**Step 1:** Look at the [list of topical groups](https://github.com/HSF/PyHEP.dev-workshops/issues?q=is%3Aopen+is%3Aissue+label%3A2023+label%3Atopical-group) and pick the ones you're most interested in. Add a comment to introduce yourself, your background, what you work on, and what you hope to achieve at the workshop.
+**Step 1:** Look at the [list of topical groups](https://github.com/HSF/PyHEP.dev-workshops/issues?q=is%3Aopen+is%3Aissue+label%3A2023) and pick the ones you're most interested in. Add a comment to introduce yourself, your background, what you work on, and what you hope to achieve at the workshop.
 
 **Step 2:** As conversations develop, it may seem natural to split a group into more manageable topics or add a new topical group that we didn't think of. Feel free to do that.
 
